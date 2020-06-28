@@ -14,6 +14,7 @@ This [commit](XXX) shows what it takes to add Capistrano deploy configuration.
 
 - configure infrastructure (see [instructions](https://github.com/gtrafimenkov/devops-labs/blob/master/a020-deploy-ror-with-capistrano/readme.md))
 - deploy application with command: `bundle exec cap production deploy`
+- open http://10.116.120.11
 
 ## Consulting
 

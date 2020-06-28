@@ -63,6 +63,13 @@ group :development, :test do
   gem 'byebug'
   gem 'listen'
   gem "rubocop", "~> 0.83", require: false
+
+  # Using Capistrano for deployment
+  gem 'capistrano-rails'
+  gem 'capistrano', '~> 3.6'
+  gem 'capistrano-bundler', '~> 1.6'
+  gem 'capistrano3-puma'
+  gem 'capistrano-rvm'
 end
 
 group :production do
