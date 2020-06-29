@@ -8,7 +8,7 @@ a few commits added to allow it to be deployed with Capistrano.
 The application is deployed to a single server.  The infrastructure code can be found
 in [gtrafimenkov/devops-labs/blob/master/a020-deploy-ror-with-capistrano](https://github.com/gtrafimenkov/devops-labs/blob/master/a020-deploy-ror-with-capistrano/readme.md).
 
-This [commit](XXX) shows what it takes to add Capistrano deploy configuration.
+This [commit](https://github.com/gtrafimenkov/example-a020-ror-app-tracks/commit/b09b0c310b2a1e6163f990eba6cbb078d218dac3) shows what it takes to add Capistrano deploy configuration.
 
 ## How to deploy
 
